@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Aesthetic Train Night View Banner -->
-  <img src="https://images.unsplash.com/photo-1558285549-2a06fddcb25c?auto=format&fit=crop&w=1200&q=80" alt="Train Aesthetic Banner" style="border-radius: 10px; width: 100%; height: 300px; object-fit: cover;">
+  <!-- Aesthetic Banner Image (100% Working Link) -->
+  <img src="https://images.unsplash.com/photo-1511556532299-8f662fc26c06?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Aesthetic Banner" style="border-radius: 10px; width: 100%; height: 300px; object-fit: cover;">
 </div>
 
 <br>
@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff69b4?style=for-the-badge" alt="Open Source">
+  <!-- Buy Me A Coffee Badge (Top Section) -->
+  <a href="https://www.buymeacoffee.com/rj_rishabhjain" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
 </div>
 
 <br>
@@ -52,7 +56,7 @@
 
 This tool is **100% Free and Open Source**. If this software optimized your audio workflow or helped you in a live environment, consider supporting the architecture!
 
-<a href="https://buymeacoffee.com/rj_rishabhjain" target="_blank">
+<a href="https://www.buymeacoffee.com/rj_rishabhjain" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 181px !important;" >
 </a>
 
