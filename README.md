@@ -1,18 +1,22 @@
 <div align="center">
-  <!-- Aesthetic Banner Image (100% Working Link) -->
-  <img src="https://images.unsplash.com/photo-1511556532299-8f662fc26c06?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Aesthetic Banner" style="border-radius: 10px; width: 100%; height: 300px; object-fit: cover;">
+  <!-- Custom Cinematic Audio Sharing Banner -->
+  <img src="banner.png" alt="Dual Stream Audio Sharing Aesthetic" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0--stable-teal?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-blue?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff69b4?style=for-the-badge" alt="Open Source">
-  <!-- Buy Me A Coffee Badge (Top Section) -->
+  <!-- First Line: 3 Badges -->
+  <img src="https://img.shields.io/badge/Version-1.0.0--stable-teal?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square" alt="License">
+  
+  <br><br>
+  
+  <!-- Second Line: 2 Badges -->
+  <img src="https://img.shields.io/badge/Open%20Source-Love-ff69b4?style=flat-square" alt="Open Source">
   <a href="https://www.buymeacoffee.com/rj_rishabhjain" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+    <img src="https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </div>
 
