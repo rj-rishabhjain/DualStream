@@ -28,7 +28,7 @@ jobs:
         pyinstaller --noconfirm --onedir --windowed --name "DualStream" ui_main.py
         
     - name: Upload Mac App
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: DualStream-macOS
         path: dist/
