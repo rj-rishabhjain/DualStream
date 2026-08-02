@@ -1,3 +1,7 @@
+# Dual Stream 🎧
+A highly sophisticated, pure software-level audio routing utility for laptops.
+
+🌟 **Official Website & Download:** [Dual Stream Live](https://rj-rishabhjain.github.io/DualStream/)
 <div align="center">
   <!-- Custom Cinematic Audio Sharing Banner -->
   <img src="banner.png" alt="Dual Stream Audio Sharing Aesthetic" style="border-radius: 10px; width: 100%; height: 320px; object-fit: cover;">
