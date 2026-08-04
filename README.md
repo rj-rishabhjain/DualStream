@@ -50,6 +50,7 @@ A highly sophisticated, pure software-level audio routing utility for laptops.
 
 ## 🚀 Installation & Usage
 *   **Tip:** Restart Google Chrome or Safari after starting DualStream to ensure audio routing is active.
+*   **Compatibility:** Fully tested and optimized for Windows 10 and Windows 11 (64-bit).
 
 ### 🪟 Windows (Available Now)
 1. Download the `DualStream_Setup_v1.exe` from the Releases section.
