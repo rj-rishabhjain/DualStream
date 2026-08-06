@@ -53,14 +53,22 @@ A highly sophisticated, pure software-level audio routing utility for laptops.
 *   **Compatibility:** Fully tested and optimized for Windows 10 and Windows 11 (64-bit).
 *   **Troubleshooting:** If you experience audio lag between devices, use the buffer offset slider to sync them perfectly.
 
-### 🪟 Windows (Available Now)
+## 🗺️ Roadmap (Upcoming Features)
+- [x] Windows Core Audio Engine (Released)
+- [x] Standalone Executable (.exe)
+- [x] macOS Support (Apple Silicon & Intel)
+- [ ] Advanced UI Dashboard & AI Banners
+- [ ] Custom Bluetooth Dongle Optimization
+
+### <img alt="Windows Logo" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_logo_-_2021.svg" width="22" height="22" style="vertical-align: text-bottom;"> Windows (Available Now)
 1. Download the `DualStream_Setup_v1.exe` from the Releases section.
 2. Run the installer and launch the application.
 3. Select your primary input/output devices and route them seamlessly.
 
-### 🍏 macOS (In Development)
-*   The `.dmg` release for Apple Silicon and Intel architectures is currently undergoing pipeline compilation via GitHub Actions.
-
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg"><img alt="Apple Logo" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="22" height="22" style="vertical-align: text-bottom;"></picture> macOS (Available Now)
+1. Download the `DualStream-macOS.zip` from the Releases section.
+2. Extract the archive and launch the application.
+3. Configure your primary and secondary audio devices seamlessly.
 ---
 
 ## ☕ Support the Project
