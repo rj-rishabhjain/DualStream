@@ -71,6 +71,11 @@ A highly sophisticated, pure software-level audio routing utility for laptops.
 3. Configure your primary and secondary audio devices seamlessly.
 ---
 
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute to the project.
+
+---
+
 ## ☕ Support the Project
 
 This tool is **100% Free and Open Source**. If this software optimized your audio workflow or helped you in a live environment, consider supporting the architecture!
