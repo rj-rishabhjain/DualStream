@@ -76,6 +76,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
+## 📜 License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
 ## ☕ Support the Project
 
 This tool is **100% Free and Open Source**. If this software optimized your audio workflow or helped you in a live environment, consider supporting the architecture!
